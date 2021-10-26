@@ -21,3 +21,10 @@ p {
   border: 2px dotted;
 }
   
+ol {
+  list-style-type: upper-alpha;
+}
+
+ul {
+  list-style-type: square;
+}
