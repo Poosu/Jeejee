@@ -1,1 +1,8 @@
+body {
+ background-image: url("https://cdn.pixabay.com/photo/2017/08/15/08/23/stars-2643089_1280.jpg");
+ background-color: #cccccc;
+}
 
+h1 {
+  border-style: solid;
+}
