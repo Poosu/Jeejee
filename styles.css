@@ -1,18 +1,22 @@
 #nav3 {
   float: left;
-  padding: 30px;
+  padding: 5px;
+  border: 10px dotted white;
+  margin: 20px;
   text-align: center;
-  font-size: 35px;
+  font-size: 20px;
   color: white;
-  background-color: grey;
+  background-color: lightgrey;
 }
 
 #section3 {
   float: left;
-  padding: 30px;
+  border: 10px solid white;
+  padding: 5px;
+  margin: 20px;
   font-size: 20px;
   color: black;
-  background-color: white;
+  background-color: grey;
 }
 
 header {
@@ -45,9 +49,6 @@ p {
   font-size: 35px;
 }
 
-p {
-  color: white;
-}
 
 .box {
   height: 100px;
