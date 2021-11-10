@@ -15,7 +15,7 @@
 }
 
 header {
-  background-color: red;
+  background-color: black;
 }
 
 nav {
@@ -36,6 +36,7 @@ margin-right: auto;
 
 h1 {
   font-size: 20px;
+  text-align: center;
 }
 
 p {
