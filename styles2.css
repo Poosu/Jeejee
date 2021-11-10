@@ -14,3 +14,11 @@ p {
   width: 200px;
   height: 150px;
 }
+
+div {
+  background-color: lightblue;
+  width: 200px;
+  border: 20px solid darkblue;
+  padding: 60px;
+  margin: 25px;
+}
