@@ -12,3 +12,20 @@ th {
   background-color: blue;
   color: white;
 }
+
+input[type=text] {
+  border: 2px lightblue;
+  border-radius: 4px;
+}
+
+input[type=text]:focus {
+  border: 2px solid #555;
+}
+
+input[type=button], input[type=submit], input[type=reset] {
+  background-color: lightgreen;
+  border: none;
+  color: white;
+  padding: 12px 24px;
+  width: 100;
+}
