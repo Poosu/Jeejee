@@ -12,6 +12,7 @@
 
  a {
   color: black;
+  background-color: white;
 }
 
 a:hover {
@@ -25,4 +26,8 @@ a:hover {
     color: white;
     background-color: black;
   }
+}
+
+p {
+  background-color: white;
 }
