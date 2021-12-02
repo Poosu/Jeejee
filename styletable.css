@@ -16,10 +16,6 @@ input[type=text] {
   border-radius: 4px;
 }
 
-input[type=text]:focus {
-  border: 2px solid #555;
-}
-
 input[type=button], input[type=submit], input[type=reset] {
   background-color: lightgreen;
   color: white;
