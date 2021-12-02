@@ -2,8 +2,13 @@ table {
   border: 1px solid black;
 }
 
+th {
+  background-color: orange;
+  color: white;
+}
+
 input[type=button], input[type=submit], input[type=reset] {
-  background-color: lightgreen;
+  background-color: green;
   color: white;
   width: 100%;
 }
