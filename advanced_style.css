@@ -9,6 +9,11 @@
 
 h1 {
   text-shadow: 4px 4px lightblue;
+  text-align: center;
+}
+
+h2 {
+  text-align: center
 }
 
  a {
