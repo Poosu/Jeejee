@@ -6,16 +6,6 @@ table, th, td {
   text-align: middle;
   }
 
-th {
-  background-color: lightblue;
-  color: white;
-}
-
-input[type=text] {
-  border: 2px lightblue;
-  border-radius: 4px;
-}
-
 input[type=button], input[type=submit], input[type=reset] {
   background-color: lightgreen;
   color: white;
