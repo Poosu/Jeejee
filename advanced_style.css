@@ -8,7 +8,7 @@
 }
 
 h1 {
-  text-shadow: 2px 2px darkgreen;
+  text-shadow: 4px 4px lightblue;
 }
 
  a {
@@ -28,3 +28,6 @@ a:hover {
   }
 }
 
+p {
+  font-size: 150%;
+}
