@@ -19,3 +19,10 @@ a:hover {
   transition-property: color;
   transition-duration: 1s;
 }
+
+@media only screen and (max-width: 800px) {
+  body {
+    color: white;
+    background-color: black;
+  }
+}
