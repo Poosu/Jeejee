@@ -41,22 +41,34 @@ table, th, td {
   <h2>Tiedot tähän</h2>
   
 <form>
+  <fieldset>
+    <legend>Yhteystiedot</legend>
   <label for="fname">Name:</label><br>
   <input type="text" id="fname" name="fname" required><br>
   <label for="lname">Last name:</label><br>
   <input type="text" id="lname" name="lname" required><br>
   <label for="email">Email:</label><br>
   <input type="text" id="email" name="email" required><br>
-  <textarea name="Pohdintaa" style="width:80px; height:4px;">
+  </fieldset>
+  <fieldset>
+    <legend>Tietämys eläimistä</legend>
+  <textarea name="Pohdintaa" style="width:80px; height:4px;"><br>
   </textarea><br>
+  </fieldset>
+  <fieldset>
+    <legend>Haluatko saada huipputarjouksia?</legend>
   <input type="checkbox" id="Newsletter" name="Newsletter">
   <label for="Newsletter">Signup for newsletter</label><br>
+  </fieldset>
+  <fieldset>
+    <legend>Valitse paras eläin</legend>
   <input type="text" name="Eläin" list="eläimet">
     <datalist id="eläimet">
      <option value="Porsas">
      <option value="Kana">
      <option value="Kenguru">
     </datalist><br>
+  </fieldset>
   <input type="submit" value="Add new user">
   
   
